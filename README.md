@@ -90,6 +90,9 @@ var a = [x1, x2, x3];
 - Comments: All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types. 'https://github.com/jsdoc3/jsdoc'
 ## SCSS Style Guild
 
-
+- Use hyphenated class names (no camelCase or snake_case).
+- For naming, use the general-to-specific approach
+- Avoid nesting too deep.
+- Write comma-delimited selectors on separate lines.
 
    
