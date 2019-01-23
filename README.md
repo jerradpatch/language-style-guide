@@ -88,6 +88,7 @@ var a = [x1, x2, x3];
 ```
 - Never modify prototypes of built-in objects such as 'Array' or 'String'
 - Comments: All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types. 'https://github.com/jsdoc3/jsdoc'
+- if function returns an array, it should always return an array and never null/undefined/...ect.
 ## SCSS Style Guild
 
 - Use hyphenated class names (no camelCase or snake_case).
